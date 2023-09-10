@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **fcaroca91/fcaroca91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <a href="https://app.daily.dev/fcaroca"><img src="https://api.daily.dev/devcards/3b73b407c3fb4b7f84a1123d7fa86470.png?r=l2v" width="400" alt="Felipe's Dev Card"/></a>
